@@ -44,7 +44,7 @@ onMounted(() => {
 <template>
   <div class="terminal-card">
     <div class="header">
-      <img src="/src/assets/headshot.jpeg" class="hero-image" />
+      <img src="/headshot.jpeg" class="hero-image" />
       <div class="header-text">
         <h1>Rahul Balaji</h1>
         <p class="typing-text">

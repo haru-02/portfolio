@@ -19,7 +19,7 @@ body,
 
 .app-bg {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('./assets/background.jpg');
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/background.jpg');
   min-height: 100vh;
   display: flex;
   flex-direction: column;
